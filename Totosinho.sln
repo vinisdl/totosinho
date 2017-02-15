@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho", "Totosinho\Totosinho.csproj", "{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Tests", "Totosinho.Tests\Totosinho.Tests.csproj", "{AF9CAE9D-B530-494E-991E-62E6F5B15A7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Totosinho.Api", "Totosinho.Api", "{70645DE2-BC47-49B9-904F-4EA460DBE630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Totosinho.Domain", "Totosinho.Domain", "{D902A238-DBCD-4E39-B48C-0ADE0CDB6C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Domain", "Totosinho.Domain\Totosinho.Domain.csproj", "{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Totosinho.Repository", "Totosinho.Repository", "{4D8AB23B-043A-4531-8941-AC134BD09500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Repository", "Totosinho.Data\Totosinho.Repository.csproj", "{9D155E98-26E4-40CE-906A-4F3593E148C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Repositorio.Tests", "Totosinho.Data.Tests\Totosinho.Repositorio.Tests.csproj", "{7CA429C3-BEAC-48EE-95B3-341064711967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Domain.Tests", "Totosinho.Domain.Tests\Totosinho.Domain.Tests.csproj", "{0305156D-16CE-4280-B183-19BECFA66817}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Totosinho.CrossCutting", "Totosinho.CrossCutting", "{8E5031DC-6CCE-4014-B246-0CE2E2589950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.CrossCutting.IoC", "Totosinho.CrossCutting.IoC\Totosinho.CrossCutting.IoC.csproj", "{6F18999A-819D-4E51-923D-8859D7AAA155}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Totosinho.App", "Totosinho.App", "{859717D1-96D7-43F8-ACC9-2567A4A098D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.App", "Totosinho.App\Totosinho.App.csproj", "{DB3F93BA-476D-496A-96AB-56B4F2C6B986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9CAE9D-B530-494E-991E-62E6F5B15A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9CAE9D-B530-494E-991E-62E6F5B15A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9CAE9D-B530-494E-991E-62E6F5B15A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9CAE9D-B530-494E-991E-62E6F5B15A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA429C3-BEAC-48EE-95B3-341064711967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA429C3-BEAC-48EE-95B3-341064711967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA429C3-BEAC-48EE-95B3-341064711967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA429C3-BEAC-48EE-95B3-341064711967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0305156D-16CE-4280-B183-19BECFA66817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0305156D-16CE-4280-B183-19BECFA66817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0305156D-16CE-4280-B183-19BECFA66817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0305156D-16CE-4280-B183-19BECFA66817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F18999A-819D-4E51-923D-8859D7AAA155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F18999A-819D-4E51-923D-8859D7AAA155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F18999A-819D-4E51-923D-8859D7AAA155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F18999A-819D-4E51-923D-8859D7AAA155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3F93BA-476D-496A-96AB-56B4F2C6B986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3F93BA-476D-496A-96AB-56B4F2C6B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3F93BA-476D-496A-96AB-56B4F2C6B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3F93BA-476D-496A-96AB-56B4F2C6B986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11508003-9F6B-4A56-9EDE-E41FE5EFC9C5} = {70645DE2-BC47-49B9-904F-4EA460DBE630}
+		{AF9CAE9D-B530-494E-991E-62E6F5B15A7C} = {70645DE2-BC47-49B9-904F-4EA460DBE630}
+		{A3C8F60C-24B8-49BC-84D3-C9069E2EFC80} = {D902A238-DBCD-4E39-B48C-0ADE0CDB6C3C}
+		{9D155E98-26E4-40CE-906A-4F3593E148C8} = {4D8AB23B-043A-4531-8941-AC134BD09500}
+		{7CA429C3-BEAC-48EE-95B3-341064711967} = {4D8AB23B-043A-4531-8941-AC134BD09500}
+		{0305156D-16CE-4280-B183-19BECFA66817} = {D902A238-DBCD-4E39-B48C-0ADE0CDB6C3C}
+		{6F18999A-819D-4E51-923D-8859D7AAA155} = {8E5031DC-6CCE-4014-B246-0CE2E2589950}
+		{DB3F93BA-476D-496A-96AB-56B4F2C6B986} = {859717D1-96D7-43F8-ACC9-2567A4A098D1}
+	EndGlobalSection
+EndGlobal

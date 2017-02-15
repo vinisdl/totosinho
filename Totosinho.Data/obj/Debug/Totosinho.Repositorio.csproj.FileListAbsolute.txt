@@ -1,0 +1,14 @@
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\Totosinho.Repositorio.dll.config
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\Totosinho.Repositorio.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\Totosinho.Repositorio.pdb
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\EntityFramework.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\Totosinho.Domain.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\Totosinho.Domain.pdb
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\EntityFramework.xml
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\obj\Debug\Totosinho.Repositorio.csprojResolveAssemblyReference.cache
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\obj\Debug\Totosinho.Repositorio.Migrations.MigrationBancoInicial.resources
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\obj\Debug\Totosinho.Repositorio.csproj.GenerateResource.Cache
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\obj\Debug\Totosinho.Repositorio.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Data\obj\Debug\Totosinho.Repositorio.pdb

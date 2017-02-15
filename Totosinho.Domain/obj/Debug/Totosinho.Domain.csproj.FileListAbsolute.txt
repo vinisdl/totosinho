@@ -1,0 +1,5 @@
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.pdb
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.dll
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.pdb
+c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.csprojResolveAssemblyReference.cache
