@@ -1,0 +1,16 @@
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.pdb
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Dapper.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\DapperExtensions.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Domain.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Domain.pdb
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Dapper.xml
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\DapperExtensions.pdb
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.csprojResolveAssemblyReference.cache
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.pdb
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.dll.config
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.xml
+D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.xml

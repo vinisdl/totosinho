@@ -1,5 +1,10 @@
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.pdb
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.dll
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.pdb
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.csprojResolveAssemblyReference.cache
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.pdb
+D:\Tab\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.dll
+D:\Tab\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.pdb
+D:\Tab\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.csprojResolveAssemblyReference.cache
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll.config
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.xml
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.xml

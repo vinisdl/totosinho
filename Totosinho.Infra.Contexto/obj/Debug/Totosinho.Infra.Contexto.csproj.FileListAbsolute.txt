@@ -1,0 +1,14 @@
+D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Infra.Contexto.csprojResolveAssemblyReference.cache
+D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.dll
+D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.pdb
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.dll.config
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.dll
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.pdb
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.dll
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Domain.dll
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Domain.pdb
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.xml
+D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.Migrations.migrationinitial.resources
+D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Infra.Contexto.csproj.GenerateResource.Cache

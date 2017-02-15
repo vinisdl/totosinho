@@ -1,7 +1,0 @@
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\bin\Debug\Totosinho.CrossCutting.IoC.dll
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\bin\Debug\Totosinho.CrossCutting.IoC.pdb
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\obj\Debug\Totosinho.CrossCutting.IoC.csprojResolveAssemblyReference.cache
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\obj\Debug\Totosinho.CrossCutting.IoC.dll
-c:\users\marco.dalalba\documents\visual studio 2015\Projects\Totosinho\Totosinho.CrossCutting.IoC\obj\Debug\Totosinho.CrossCutting.IoC.pdb
