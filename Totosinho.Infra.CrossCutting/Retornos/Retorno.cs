@@ -4,20 +4,20 @@ namespace Totosinho.Infra.CrossCutting.Retornos
 {
     public class Retorno
     {
+        private readonly List<Erro> _erros;
+
         public Retorno(List<Erro> erros = null)
         {
             Sucesso = erros == null;
-            _erros = erros ?? new List<Erro>();            
-        }       
+            _erros = erros ?? new List<Erro>();
+        }
 
         public bool Sucesso { get; set; }
-        private readonly List<Erro> _erros;
 
         public object Erros
         {
             get { return GetErros(); }
-            private set { Erros = value;}
-            
+            private set { Erros = value; }
         }
 
         public List<Erro> GetErros()
@@ -46,6 +46,7 @@ namespace Totosinho.Infra.CrossCutting.Retornos
             Codigo = codigo;
             Mensagem = mensagem;
         }
+
         public int Codigo { get; set; }
         public string Mensagem { get; set; }
     }

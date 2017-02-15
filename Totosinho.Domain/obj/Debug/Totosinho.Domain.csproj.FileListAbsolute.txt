@@ -8,3 +8,9 @@ D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.dll
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Net.Http.Formatting.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.dll
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Net.Http.Formatting.xml
+D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.xml

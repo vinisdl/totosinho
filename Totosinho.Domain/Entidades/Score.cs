@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Activities;
 
 namespace Totosinho.Domain.Entidades
 {
@@ -12,7 +13,7 @@ namespace Totosinho.Domain.Entidades
             SetTimeStamp(timestamp);
             SetServidorCod(servidorCod);
         }
-        
+
         public long PlayerId { get; private set; }
         public long GameId { get; private set; }
         public long Win { get; private set; }
@@ -21,11 +22,15 @@ namespace Totosinho.Domain.Entidades
 
         public void SetPlayerId(long playerId)
         {
+            if (playerId <= 0)
+                throw new ValidationException("Player Id deve ser maior que 0.");
             PlayerId = playerId;
         }
 
         public void SetGameId(long gameId)
         {
+            if (gameId <= 0)
+                throw new ValidationException("Game Id deve ser maior que 0.");
             GameId = gameId;
         }
 

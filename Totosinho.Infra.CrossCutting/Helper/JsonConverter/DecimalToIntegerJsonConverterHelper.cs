@@ -11,12 +11,11 @@ namespace Totosinho.Infra.CrossCutting.Helper.JsonConverter
             throw new NotImplementedException();
         }
 
-        public override object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer)
+        public override object ReadJson(JsonReader reader, Type objectType, object existingValue,
+            JsonSerializer serializer)
         {
             if (reader.Value == null)
-            {
                 return null;
-            }
 
             return NumberHelper.IntegerToDecimal(reader.Value);
         }

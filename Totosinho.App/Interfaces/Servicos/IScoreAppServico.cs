@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-using Totosinho.App.ViewModels.Servicos;
-using Totosinho.Domain.Entidades;
+﻿using Totosinho.App.ViewModels.Servicos;
 
 namespace Totosinho.App.Interfaces.Servicos
 {

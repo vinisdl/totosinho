@@ -1,5 +1,4 @@
 ﻿using SimpleInjector;
-using Totosinho.App.Interfaces;
 using Totosinho.App.Interfaces.Servicos;
 using Totosinho.App.Servicos;
 using Totosinho.Domain.Interfaces.Contexto;

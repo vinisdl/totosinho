@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
 
 namespace Totosinho.Domain.Interfaces.Contexto
 {
     public interface IUnitOfWork
     {
-        void SaveChanges();
         DbContext Context { get; }
+        void SaveChanges();
     }
 }

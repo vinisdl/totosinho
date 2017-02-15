@@ -6,7 +6,7 @@ namespace Totosinho.Infra.CrossCutting.Helper.JsonConverter
     {
         public DateMonthYearJsonConverterHelper()
         {
-            base.DateTimeFormat = "MM/yyyy";
+            DateTimeFormat = "MM/yyyy";
         }
     }
 }

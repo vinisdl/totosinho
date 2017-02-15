@@ -14,14 +14,14 @@ namespace Totosinho.Infra.CrossCutting.Globalizacao
 
         public static string Base64ToString(this string str)
         {
-            byte[] data = Convert.FromBase64String(str);
+            var data = Convert.FromBase64String(str);
             return Encoding.UTF8.GetString(data);
         }
 
         public static Stream StringToStream(this string str)
         {
-            MemoryStream stream = new MemoryStream();
-            StreamWriter writer = new StreamWriter(stream);
+            var stream = new MemoryStream();
+            var writer = new StreamWriter(stream);
             writer.Write(str);
             writer.Flush();
             stream.Position = 0;

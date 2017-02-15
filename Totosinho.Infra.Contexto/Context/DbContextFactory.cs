@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
 using Totosinho.Domain.Interfaces.Contexto;
 
 namespace Totosinho.Repositorio.Context
@@ -14,7 +8,7 @@ namespace Totosinho.Repositorio.Context
         private readonly DbContext _context;
 
         public DbContextFactory()
-        {          
+        {
             _context = new TotosinhoContext();
         }
 

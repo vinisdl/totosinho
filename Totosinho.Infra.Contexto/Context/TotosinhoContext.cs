@@ -16,6 +16,10 @@ namespace Totosinho.Repositorio.Context
             Configuration.LazyLoadingEnabled = false;
         }
 
+
+        public DbSet<Servidor> Servidor { get; set; }
+        public DbSet<Score> Score { get; set; }
+
         public static string GetSqlConnection()
         {
             string _connectionString;
@@ -23,10 +27,12 @@ namespace Totosinho.Repositorio.Context
             switch (ambiente)
             {
                 case "producao":
-                    _connectionString = ConfigurationManager.ConnectionStrings["DefaultConnectionProducao"].ConnectionString;
+                    _connectionString =
+                        ConfigurationManager.ConnectionStrings["DefaultConnectionProducao"].ConnectionString;
                     break;
                 case "teste":
-                    _connectionString = ConfigurationManager.ConnectionStrings["DefaultConnectionTeste"].ConnectionString;
+                    _connectionString =
+                        ConfigurationManager.ConnectionStrings["DefaultConnectionTeste"].ConnectionString;
                     break;
                 case "dev":
                     _connectionString = ConfigurationManager.ConnectionStrings["DefaultConnectionDev"].ConnectionString;
@@ -38,22 +44,17 @@ namespace Totosinho.Repositorio.Context
             return _connectionString;
         }
 
-
-        public DbSet<Servidor> Servidor { get; set; }
-        public DbSet<Score> Score { get; set; }
-
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
 
-            modelBuilder.Properties<string>().Configure(a=>a.HasColumnType("varchar"));
-            modelBuilder.Properties<string>().Configure(a=>a.HasMaxLength(50));
+            modelBuilder.Properties<string>().Configure(a => a.HasColumnType("varchar"));
+            modelBuilder.Properties<string>().Configure(a => a.HasMaxLength(50));
 
 
             modelBuilder.Configurations.Add(new ScoreConfiguration());
-
         }
     }
 }

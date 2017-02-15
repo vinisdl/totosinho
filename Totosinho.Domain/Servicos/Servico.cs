@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using Totosinho.Domain.Entidades;
 using Totosinho.Domain.Interfaces.Repositorio;
@@ -15,8 +14,9 @@ namespace Totosinho.Domain.Servicos
         {
             _repositorio = repositorio;
         }
+
         public TEntity Add(TEntity obj)
-        {            
+        {
             return _repositorio.Add(obj);
         }
 
@@ -59,7 +59,8 @@ namespace Totosinho.Domain.Servicos
 
         public void Update(TEntity obj)
         {
-            _repositorio.Update(obj);;
+            _repositorio.Update(obj);
+            ;
         }
 
         public void AddOrUpdate(TEntity obj)

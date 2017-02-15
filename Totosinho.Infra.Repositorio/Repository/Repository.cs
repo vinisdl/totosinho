@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Validation;
 using System.Linq;
-using System.Runtime.Remoting.Contexts;
 using Totosinho.Domain.Entidades;
 using Totosinho.Domain.Interfaces.Contexto;
 using Totosinho.Domain.Interfaces.Repositorio;
@@ -11,7 +10,7 @@ using Totosinho.Domain.Interfaces.Repositorio;
 namespace Totosinho.Infra.Repositorio.Repository
 {
     public class Repository<TEntity> : IRepository<TEntity>
-     where TEntity : EntityBase
+        where TEntity : EntityBase
     {
         private readonly DbContext _context;
 
@@ -92,10 +91,8 @@ namespace Totosinho.Infra.Repositorio.Repository
                     Console.WriteLine("Entity of type \"{0}\" in state \"{1}\" has the following validation errors:",
                         eve.Entry.Entity.GetType().Name, eve.Entry.State);
                     foreach (var ve in eve.ValidationErrors)
-                    {
                         Console.WriteLine("- Property: \"{0}\", Error: \"{1}\"",
                             ve.PropertyName, ve.ErrorMessage);
-                    }
                 }
                 throw;
             }

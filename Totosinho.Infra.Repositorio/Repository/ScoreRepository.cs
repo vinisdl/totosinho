@@ -8,7 +8,7 @@ namespace Totosinho.Infra.Repositorio.Repository
     {
         public ScoreRepository(IUnitOfWork uow)
             : base(uow)
-        {            
+        {
         }
     }
 }

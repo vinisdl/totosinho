@@ -3,12 +3,13 @@ using SimpleInjector;
 using SimpleInjector.Integration.WebApi;
 using Totosinho.Api;
 using Totosinho.Infra.CrossCutting.IoC;
+using WebActivator;
 
-[assembly: WebActivator.PostApplicationStartMethod(typeof(SimpleInjectorWebApiInitializer), "Initialize")]
+[assembly: PostApplicationStartMethod(typeof(SimpleInjectorWebApiInitializer), "Initialize")]
 
 namespace Totosinho.Api
 {
-	public static class SimpleInjectorWebApiInitializer
+    public static class SimpleInjectorWebApiInitializer
     {
         public static void Initialize()
         {

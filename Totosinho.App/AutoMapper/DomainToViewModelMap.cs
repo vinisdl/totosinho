@@ -4,17 +4,17 @@ using Totosinho.Domain.Entidades;
 
 namespace Totosinho.App.AutoMapper
 {
-    class DomainToViewModelMap : Profile
+    internal class DomainToViewModelMap : Profile
     {
         public override string ProfileName
         {
             get { return "DomainToViewModelMap"; }
-        } 
+        }
 
         protected override void Configure()
-        {           
+        {
             Mapper.CreateMap<Servidor, ServidorViewModel>();
-            Mapper.CreateMap<Score, ScoreViewModel>();           
+            Mapper.CreateMap<Score, ScoreViewModel>();
         }
     }
 }

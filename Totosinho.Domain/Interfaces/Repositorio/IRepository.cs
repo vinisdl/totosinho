@@ -22,5 +22,4 @@ namespace Totosinho.Domain.Interfaces.Repositorio
 
         void AddOrUpdate(TEntity obj);
     }
-
 }

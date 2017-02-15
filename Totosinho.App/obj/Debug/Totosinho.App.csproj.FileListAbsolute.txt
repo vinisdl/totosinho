@@ -21,3 +21,5 @@ D:\Tab\totosinho\Totosinho.App\bin\Debug\Totosinho.App.dll.config
 D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.dll
 D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.App\bin\Debug\Totosinho.Infra.Contexto.dll
+D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.xml

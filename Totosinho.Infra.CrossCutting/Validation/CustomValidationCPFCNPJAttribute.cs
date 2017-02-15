@@ -8,14 +8,7 @@ namespace Totosinho.Infra.CrossCutting.Validation
     public class CustomValidationCpfCnpjAttribute : ValidationAttribute
     {
         /// <summary>
-        /// Construtor
-        /// </summary>
-        public CustomValidationCpfCnpjAttribute()
-        {
-        }
-
-        /// <summary>
-        /// Validação server
+        ///     Validação server
         /// </summary>
         /// <param name="value"></param>
         /// <returns></returns>
@@ -24,7 +17,7 @@ namespace Totosinho.Infra.CrossCutting.Validation
             if (value == null || string.IsNullOrEmpty(value.ToString()))
                 return true;
 
-            bool valido = value.ToString().Length != 14
+            var valido = value.ToString().Length != 14
                 ? ValidacaoCpfCnpjHelper.ValidaCpf(value.ToString())
                 : ValidacaoCpfCnpjHelper.ValidaCnpj(value.ToString());
 
@@ -32,7 +25,7 @@ namespace Totosinho.Infra.CrossCutting.Validation
         }
 
         /// <summary>
-        /// Validação client
+        ///     Validação client
         /// </summary>
         /// <param name="metadata"></param>
         /// <param name="context"></param>
@@ -42,10 +35,9 @@ namespace Totosinho.Infra.CrossCutting.Validation
         {
             yield return new ModelClientValidationRule
             {
-                ErrorMessage = this.FormatErrorMessage(null),
+                ErrorMessage = FormatErrorMessage(null),
                 ValidationType = "customvalidationcpf"
             };
         }
     }
-
 }

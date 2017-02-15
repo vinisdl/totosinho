@@ -14,7 +14,7 @@ namespace Totosinho.Infra.Repositorio.Repository
 
         public Servidor ObterPorTokenAcesso(string acessToken)
         {
-            return Get().FirstOrDefault(a=>a.AcessToken.Equals(acessToken));
+            return Get().FirstOrDefault(a => a.AcessToken.Equals(acessToken));
         }
     }
 }

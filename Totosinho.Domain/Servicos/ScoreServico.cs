@@ -13,6 +13,5 @@ namespace Totosinho.Domain.Servicos
         {
             _repositorio = repositorio;
         }
-
     }
 }

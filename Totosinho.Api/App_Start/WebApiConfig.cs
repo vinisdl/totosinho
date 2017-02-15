@@ -13,13 +13,12 @@ namespace Totosinho.Api
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
-                name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}/{action}",
-                defaults: new { id = RouteParameter.Optional, action = RouteParameter.Optional}
-                
-
+                "DefaultApi",
+                "api/{controller}/{id}/{action}",
+                new {id = RouteParameter.Optional, action = RouteParameter.Optional}
             );
-            var appXmlType = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(t => t.MediaType == "application/xml");
+            var appXmlType =
+                config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(t => t.MediaType == "application/xml");
             config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(appXmlType);
         }
     }
