@@ -25,7 +25,7 @@ namespace Totosinho.Repositorio
                 Context.SaveChanges();
         }
 
-        public DbContext Context { get; private set; }
+        public DbContext Context { get; }
 
         protected virtual void Dispose(bool disposing)
         {

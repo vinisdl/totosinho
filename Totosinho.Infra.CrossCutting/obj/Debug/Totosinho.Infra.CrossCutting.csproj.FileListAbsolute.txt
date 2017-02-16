@@ -26,3 +26,31 @@ D:\Tab\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Totosinho.Infra.CrossCut
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Totosinho.Infra.CrossCutting.pdb
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting\obj\Debug\Totosinho.Infra.CrossCutting.dll
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting\obj\Debug\Totosinho.Infra.CrossCutting.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Totosinho.Infra.CrossCutting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Totosinho.Infra.CrossCutting.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\NLog.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\SimpleInjector.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Helpers.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Http.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Mvc.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Razor.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\NLog.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\SimpleInjector.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Helpers.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Http.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Mvc.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.Razor.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\obj\Debug\Totosinho.Infra.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\obj\Debug\Totosinho.Infra.CrossCutting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting\obj\Debug\Totosinho.Infra.CrossCutting.pdb

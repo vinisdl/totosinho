@@ -14,7 +14,7 @@ namespace Totosinho.App.AutoMapper
         protected override void Configure()
         {
             Mapper.CreateMap<ServidorViewModel, Servidor>();
-            Mapper.CreateMap<ScoreViewModel, Score>();
+            Mapper.CreateMap<GameResultViewModel, GameResult>();
         }
     }
 }

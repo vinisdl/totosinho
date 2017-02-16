@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{69A30BFD-679E-4DAE-A08D-B80A92BC225F}"
 EndProject
@@ -28,6 +28,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Infra.Repositorio", "Totosinho.Infra.Repositorio\Totosinho.Infra.Repositorio.csproj", "{4429A982-3E21-4EA1-8411-F6CC3B1A66AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Infra.Contexto", "Totosinho.Infra.Contexto\Totosinho.Infra.Contexto.csproj", "{9D155E98-26E4-40CE-906A-4F3593E148C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{2C69EE1A-5F4D-4D36-948A-2AB7389F3495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Totosinho.Api.Tests", "Totosinho.Api.Tests\Totosinho.Api.Tests.csproj", "{57E62854-1DE1-4AF9-8F3F-39E035041343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D155E98-26E4-40CE-906A-4F3593E148C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E62854-1DE1-4AF9-8F3F-39E035041343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E62854-1DE1-4AF9-8F3F-39E035041343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E62854-1DE1-4AF9-8F3F-39E035041343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E62854-1DE1-4AF9-8F3F-39E035041343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,5 +85,6 @@ Global
 		{89EB9D80-86C5-4448-B5C3-A33ED1593ABE} = {FC4AF6AA-86AC-4838-946D-950F217817DE}
 		{4429A982-3E21-4EA1-8411-F6CC3B1A66AE} = {C3B0DD93-E001-4254-891D-1D53185E8043}
 		{9D155E98-26E4-40CE-906A-4F3593E148C8} = {C3B0DD93-E001-4254-891D-1D53185E8043}
+		{57E62854-1DE1-4AF9-8F3F-39E035041343} = {2C69EE1A-5F4D-4D36-948A-2AB7389F3495}
 	EndGlobalSection
 EndGlobal

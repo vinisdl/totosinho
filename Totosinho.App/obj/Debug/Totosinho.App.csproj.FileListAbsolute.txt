@@ -23,3 +23,32 @@ D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.App\bin\Debug\Totosinho.Infra.Contexto.dll
 D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.dll
 D:\Tab\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.App.dll.config
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.App.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.App.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\AutoMapper.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\EntityFramework.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\System.Web.Http.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.Infra.Contexto.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\DapperExtensions.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Npgsql.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Totosinho.Domain.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\AutoMapper.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\EntityFramework.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\bin\Debug\System.Web.Http.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\obj\Debug\Totosinho.App.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\obj\Debug\Totosinho.App.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.App\obj\Debug\Totosinho.App.pdb

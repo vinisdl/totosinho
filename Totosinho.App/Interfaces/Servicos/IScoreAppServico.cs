@@ -2,8 +2,8 @@
 
 namespace Totosinho.App.Interfaces.Servicos
 {
-    public interface IScoreAppServico
+    public interface IGameResultAppServico
     {
-        ScoreViewModel Add(ScoreViewModel obj);
+        GameResultViewModel Add(GameResultViewModel obj);
     }
 }

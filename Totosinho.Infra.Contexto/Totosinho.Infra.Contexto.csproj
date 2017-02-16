@@ -48,11 +48,11 @@
     <Compile Include="Context\DbContextFactory.cs" />
     <Compile Include="Context\Seed\TotosinhoDbInitializer.cs" />
     <Compile Include="Context\TotosinhoContext.cs" />
-    <Compile Include="EntityTypesConfigurations\ScoreConfiguration.cs" />
+    <Compile Include="EntityTypesConfigurations\GameResultConfiguration.cs" />
     <Compile Include="EntityTypesConfigurations\ServidorConfiguration.cs" />
-    <Compile Include="Migrations\201702151614497_migration-initial.cs" />
-    <Compile Include="Migrations\201702151614497_migration-initial.Designer.cs">
-      <DependentUpon>201702151614497_migration-initial.cs</DependentUpon>
+    <Compile Include="Migrations\201702160028095_initi-migration.cs" />
+    <Compile Include="Migrations\201702160028095_initi-migration.Designer.cs">
+      <DependentUpon>201702160028095_initi-migration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -69,8 +69,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201702151614497_migration-initial.resx">
-      <DependentUpon>201702151614497_migration-initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201702160028095_initi-migration.resx">
+      <DependentUpon>201702160028095_initi-migration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

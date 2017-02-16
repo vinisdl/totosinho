@@ -19,7 +19,7 @@ namespace Totosinho.Api
             _servidorAppService = servidorAppService;
         }
 
-        protected int GetIdServidor()
+        protected long GetIdServidor()
         {
             var servidorViewModel =
                 _servidorAppService.ObterPorTokenAcesso(ActionContext.ActionArguments["tokenAcesso"].ToString());
@@ -55,10 +55,6 @@ namespace Totosinho.Api
                 actionContext.ActionArguments["servidorId"] = _servidor.Id;
 
                 base.OnActionExecuting(actionContext);
-            }
-
-            public override void OnActionExecuted(HttpActionExecutedContext actionExecutedContext)
-            {
             }
         }
     }

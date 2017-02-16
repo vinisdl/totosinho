@@ -14,3 +14,19 @@ D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.dll
 D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
 D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.dll.config
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Infra.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Dapper.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\DapperExtensions.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Totosinho.Domain.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\Dapper.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\DapperExtensions.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Repositorio\obj\Debug\Totosinho.Infra.Repositorio.pdb

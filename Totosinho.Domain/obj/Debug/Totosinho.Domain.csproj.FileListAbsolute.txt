@@ -14,3 +14,19 @@ D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.dll
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\Newtonsoft.Json.xml
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Net.Http.Formatting.xml
 D:\Tab\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll.config
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\Totosinho.Domain.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Domain\obj\Debug\Totosinho.Domain.pdb

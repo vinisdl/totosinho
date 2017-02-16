@@ -23,10 +23,10 @@ namespace Totosinho.Infra.CrossCutting.IoC
             container.Register<IServidorAppServico, ServidorAppServico>(Lifestyle.Scoped);
             container.Register<IServidorRepository, ServidorRepository>(Lifestyle.Scoped);
 
-            //Score
-            container.Register<IScoreServico, ScoreServico>(Lifestyle.Scoped);
-            container.Register<IScoreAppServico, ScoreAppServico>(Lifestyle.Scoped);
-            container.Register<IScoreRepository, ScoreRepository>(Lifestyle.Scoped);
+            //GameResult
+            container.Register<IGameResultServico, GameResultServico>(Lifestyle.Scoped);
+            container.Register<IGameResultAppServico, GameResultAppServico>(Lifestyle.Scoped);
+            container.Register<IGameResultRepository, GameResultRepository>(Lifestyle.Scoped);
         }
     }
 }

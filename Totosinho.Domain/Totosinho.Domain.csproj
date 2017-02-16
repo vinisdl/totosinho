@@ -60,18 +60,18 @@
   <ItemGroup>
     <Compile Include="Entidades\Servidor.cs" />
     <Compile Include="Entidades\EntityBase.cs" />
-    <Compile Include="Entidades\Score.cs" />
+    <Compile Include="Entidades\GameResult.cs" />
     <Compile Include="Interfaces\Contexto\IDbContextFactory.cs" />
     <Compile Include="Eventos\IDomainEvent.cs" />
     <Compile Include="Interfaces\Contexto\IUnitOfWork.cs" />
-    <Compile Include="Interfaces\Repositorio\IScoreRepository.cs" />
+    <Compile Include="Interfaces\Repositorio\IGameResultRepository.cs" />
     <Compile Include="Interfaces\Repositorio\IServidorRepository.cs" />
     <Compile Include="Interfaces\Repositorio\IRepository.cs" />
     <Compile Include="Interfaces\Servicos\IServico.cs" />
-    <Compile Include="Interfaces\Servicos\IScoreServico.cs" />
+    <Compile Include="Interfaces\Servicos\IGameResultServico.cs" />
     <Compile Include="Interfaces\Servicos\IServidorServico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Servicos\ScoreServico.cs" />
+    <Compile Include="Servicos\GameResultServico.cs" />
     <Compile Include="Servicos\ServidorServico.cs" />
     <Compile Include="Servicos\Servico.cs" />
   </ItemGroup>

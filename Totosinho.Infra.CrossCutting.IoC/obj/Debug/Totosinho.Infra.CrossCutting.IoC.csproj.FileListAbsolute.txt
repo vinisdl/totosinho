@@ -24,3 +24,29 @@ D:\Tab\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Repositorio.dll
 D:\Tab\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\obj\Debug\Totosinho.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\obj\Debug\Totosinho.Infra.CrossCutting.IoC.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\obj\Debug\Totosinho.Infra.CrossCutting.IoC.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Infra.CrossCutting.IoC.dll.config
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Infra.CrossCutting.IoC.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Infra.CrossCutting.IoC.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\System.Web.Http.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.App.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Infra.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.App.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Domain.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Totosinho.Infra.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\System.Web.Http.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml

@@ -12,3 +12,17 @@ D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.xml
 D:\Tab\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.SqlServer.xml
 D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.Migrations.migrationinitial.resources
 D:\Tab\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Infra.Contexto.csproj.GenerateResource.Cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.dll.config
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Domain.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\Totosinho.Domain.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Infra.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.dll
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.pdb
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Repositorio.Migrations.initimigration.resources
+C:\Users\marco.dalalba\Documents\Visual Studio 2015\Projects\totosinho\Totosinho.Infra.Contexto\obj\Debug\Totosinho.Infra.Contexto.csproj.GenerateResource.Cache

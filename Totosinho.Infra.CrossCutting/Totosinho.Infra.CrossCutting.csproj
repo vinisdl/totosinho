@@ -83,18 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Execoes\ApiException.cs" />
-    <Compile Include="Globalizacao\StringExtensions.cs" />
-    <Compile Include="Helper\EnumHelper.cs" />
-    <Compile Include="Helper\JsonConverter\DateMonthYearJsonConverterHelper.cs" />
-    <Compile Include="Helper\JsonConverter\DateJsonConverterHelper.cs" />
-    <Compile Include="Helper\JsonConverter\DecimalToIntegerJsonConverterHelper.cs" />
-    <Compile Include="Helper\HttpHelper.cs" />
-    <Compile Include="Helper\LogHelper.cs" />
-    <Compile Include="Helper\NumberHelper.cs" />
-    <Compile Include="Helper\ValidacaoCpfCnpjHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Retornos\Retorno.cs" />
-    <Compile Include="Validation\CustomValidationCPFCNPJAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

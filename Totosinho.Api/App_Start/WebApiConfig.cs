@@ -16,7 +16,7 @@ namespace Totosinho.Api
                 "DefaultApi",
                 "api/{controller}/{id}/{action}",
                 new {id = RouteParameter.Optional, action = RouteParameter.Optional}
-            );
+                );
             var appXmlType =
                 config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(t => t.MediaType == "application/xml");
             config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(appXmlType);

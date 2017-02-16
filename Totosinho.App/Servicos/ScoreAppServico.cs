@@ -6,33 +6,33 @@ using Totosinho.Domain.Interfaces.Servicos;
 
 namespace Totosinho.App.Servicos
 {
-    public class ScoreAppServico : IScoreAppServico
+    public class GameResultAppServico : IGameResultAppServico
     {
-        private readonly IScoreServico _scoreServico;
+        private readonly IGameResultServico _GameResultServico;
 
-        public ScoreAppServico(IScoreServico scoreServico)
+        public GameResultAppServico(IGameResultServico GameResultServico)
         {
-            _scoreServico = scoreServico;
+            _GameResultServico = GameResultServico;
         }
 
 
-        public ScoreViewModel Add(ScoreViewModel obj)
+        public GameResultViewModel Add(GameResultViewModel obj)
         {
-            var score = MapperScoreToModel(obj);
-            score = _scoreServico.Add(score);
-            _scoreServico.Commit();
-            return MapperScoreToViewModel(score);
+            var GameResult = MapperGameResultToModel(obj);
+            GameResult = _GameResultServico.Add(GameResult);
+            _GameResultServico.Commit();
+            return MapperGameResultToViewModel(GameResult);
         }
 
 
-        private Score MapperScoreToModel(ScoreViewModel scoreViewModel)
+        private GameResult MapperGameResultToModel(GameResultViewModel GameResultViewModel)
         {
-            return Mapper.Map<ScoreViewModel, Score>(scoreViewModel);
+            return Mapper.Map<GameResultViewModel, GameResult>(GameResultViewModel);
         }
 
-        private ScoreViewModel MapperScoreToViewModel(Score score)
+        private GameResultViewModel MapperGameResultToViewModel(GameResult GameResult)
         {
-            return Mapper.Map<Score, ScoreViewModel>(score);
+            return Mapper.Map<GameResult, GameResultViewModel>(GameResult);
         }
     }
 }

@@ -10,7 +10,6 @@ namespace Totosinho.Repositorio.EntityTypesConfigurations
         public ServidorConfiguration()
         {
             HasKey(u => u.Id);
-
             Property(x => x.AcessToken)
                 .HasColumnName("acess_token")
                 .HasColumnAnnotation(IndexAnnotation.AnnotationName,

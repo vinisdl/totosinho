@@ -21,7 +21,7 @@ namespace Totosinho.Infra.Repositorio.Repository
         }
 
 
-        private DbSet<TEntity> Entity { get; set; }
+        private DbSet<TEntity> Entity { get; }
 
         public TEntity Add(TEntity obj)
         {

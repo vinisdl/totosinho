@@ -18,7 +18,7 @@ namespace Totosinho.Repositorio.Context
 
 
         public DbSet<Servidor> Servidor { get; set; }
-        public DbSet<Score> Score { get; set; }
+        public DbSet<GameResult> GameResult { get; set; }
 
         public static string GetSqlConnection()
         {
@@ -53,8 +53,8 @@ namespace Totosinho.Repositorio.Context
             modelBuilder.Properties<string>().Configure(a => a.HasColumnType("varchar"));
             modelBuilder.Properties<string>().Configure(a => a.HasMaxLength(50));
 
-
-            modelBuilder.Configurations.Add(new ScoreConfiguration());
+            modelBuilder.Configurations.Add(new ServidorConfiguration());
+            modelBuilder.Configurations.Add(new GameResultConfiguration());
         }
     }
 }
